@@ -1,5 +1,3 @@
----
-
 # 📱 ViewBetsApp
 
 **A cleanly architected Android app to explore sports betting data, built with best practices and modern libraries.**
